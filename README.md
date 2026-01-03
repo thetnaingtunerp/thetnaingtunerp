@@ -6,10 +6,10 @@
 ### <div align="center">I'm Thet Naing Tun, a full-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
-- 🔭 I’m currently working on [Blue Star IT solution](https://github.com/thetnaingtunerp)  
+- 🔭 I’m currently working on [Duwon Data](https://github.com/thetnaingtunerp)  
   
 
-- 🌱 I’m currently learning Python and Next.js  
+- 🌱 I’m currently learning Python, AI and Next.js  
   
 
 - ❓ Ask me about anything related to full stack web development and related technologies  
